@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bg_title_bar</item>
+        <item name="colorPrimaryDark">@color/bg_title_bar</item>
+        <item name="colorAccent">@color/bg_title_bar</item>
+    </style>
+
+    <style name="OptionsActivity" parent="AppTheme.NoActionBar">
+
+
+    </style>
+
+</resources>
